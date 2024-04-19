@@ -582,8 +582,8 @@ function createAdminAccount() {
             userType: 1
         })
         accounts.push({
-            fullname: "Nguyễn Ngọc Quang",
-            phone: "0365601893",
+            fullname: "Nguyễn Văn A",
+            phone: "012345567",
             password: "123456",
             address: '',
             email: '',
